@@ -1,21 +1,22 @@
-gprm### Hi there 👋
+### Hi there 👋
 
-I'm Mahbub, an AI Engineer and Backend Developer from Nigeria with a passion for creating intelligent and robust software solutions.
+I'm Mahbub, an AI Engineer and Backend Engineer with a passion for creating intelligent and robust software solutions.
 
 🎓 Education:
 - MSc in Artificial Intelligence and Data Science, University of Hull
 - B.Eng in Chemical Engineering, University of Ilorin (2019)
 
 💼 Experience:
-- 3+ years in data analytics, technical support, and business analysis
-- Proficient in Python, SQL, TensorFlow, and PyTorch for AI/ML development
+- 3+ years in data analytics, technical support, and business analysis.
+- Proficient in Python, SQL, TensorFlow, and PyTorch for AI/ML development.
+- AI Enginner building RAG and other LLM-based software solutions.
 - Experienced in backend development with Node.js and Java Spring Boot
 
 🔭 Current Focus:
-- Developing REST APIs in Node.js and Java Spring Boot.
+- Developing performant and scalable LLM-based applications.
+- Developing and improving RESTful APIs.
 - Exploring advanced machine learning techniques and their applications.
 - Enhancing my skills in data analysis and visualization.
-- Enhancing my skills in generative AI using langchain and llama-index and more.
 
 👯 Collaboration:
 - Eager to contribute to open-source projects in AI, data science, or backend development
@@ -25,7 +26,7 @@ I'm Mahbub, an AI Engineer and Backend Developer from Nigeria with a passion for
 - Open to junior roles or internships in AI, machine learning, or backend development (remote or on-site)
 
 💬 Let's Connect:
-- Ask me about AI, machine learning, data analysis, or backend development
+- Let's talk about AI, machine learning, data analysis, or backend development
 - Reach out for collaborations or just a friendly chat!
 
 
